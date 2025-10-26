@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## 🧠 About Me:
 🎓 B.Tech CSE (Artificial Intelligence) Student at Shoolini University  
-💡 Passionate about AI, technology, and building cool, impactful projects  
-🌱 Currently exploring web development  
+💡 Passionate about AI, Web3, and building cool, impactful projects   
+🌱 I’m currently learning - Web development
 🚀 Always learning, experimenting, and improving  
 
 ---
@@ -36,20 +36,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧰 Tech Stack:
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tango-aksh69&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tango-aksh69&layout=compact&theme=tokyonight)
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xaksh3@gmail.com)
-
----
 
 ### 🧰 Tech Stack:
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
@@ -62,4 +48,5 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tango-aksh69&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tango-aksh69&layout=compact&theme=tokyonight)
+
 
